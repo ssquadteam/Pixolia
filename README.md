@@ -5,18 +5,17 @@
   <h3>PaperMC Fork Designed for Maximum Performance</h3>
 
   [![License](https://img.shields.io/github/license/kugge/Kaiiju?style=for-the-badge&logo=github)](LICENSE)
-  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/kugge/Kaiiju/build.yml?style=for-the-badge)](https://github.com/kugge/Kaiiju/actions)
-  [![Discord](https://img.shields.io/discord/1059774886672859136?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/qagZRAepb7)
+  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/kugge/Kaiiju/build.yml?style=for-the-badge)](https://github.com/pixeledge-verify/Pixolia/actions)
+  [![Discord](https://img.shields.io/discord/1059774886672859136?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/8FQBnGSSEq)
 
 </div>
 
 ## Features
 
-### Primary
-- **Xymb Linear Format**: Saves about 50% of disk space in OW/Nether and 95% in The End.
-- **Auto update**: Automatic upstream updates.
+### Main Changes
+- **Toggleable Linear World Format**: Saves about 50% of disk space in OW/Nether and 95% in The End.
 
-### Notable
+### Mentionable Changes
 - **Optimize Hopper**: Enable/Disable Paper "Optimize Hopper" patch that break a lot of redstone farms.
 - **Fix void trading**: Enable/Disable void trading.
 
@@ -30,7 +29,7 @@ network:
   send-null-entity-packets: true
   alternate-keepalive: false
 gameplay:
-  server-mod-name: Kaiiju
+  server-mod-name: Pixolia
   shared-random-for-players: true
 world-settings:
   default:
@@ -47,17 +46,11 @@ world-settings:
       break-redstone-on-top-of-trap-doors-early: true
 config-version: 1
 ```
-Documentation: [Kaiiju Wiki](https://github.com/KaiijuMC/Kaiiju/wiki/Configuration)
-
-### Roadmap
-- **Static view distance**: Reduce RAM usage / Region size with a "static" view distance.
-- **Native world conversion**: Convert region file format at startup.
-- **Stash deduplication**: Make giant dupe stashes possible and lagless.
 
 ## Building
 
 ```bash
-./gradlew applyPatches # Apply Kaiiju patches
+./gradlew applyPatches # Apply Pixolia patches
 ./gradlew createReobfPaperclipJar # Generate Paperclip executable jar
 ```
 
