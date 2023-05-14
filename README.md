@@ -1,8 +1,8 @@
 
 <div align="center">
   <img src="https://github.com/pixeledge-verify/Pixolia/blob/main/logo.png?" width="32%" height="32%"/>
-  <h1>Kaiiju</h1>
-  <h3>Folia fork, designed for vanilla/anarchy servers</h3>
+  <h1>Pixolia</h1>
+  <h3>PaperMC Fork Designed for Maximum Performance</h3>
 
   [![License](https://img.shields.io/github/license/kugge/Kaiiju?style=for-the-badge&logo=github)](LICENSE)
   [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/kugge/Kaiiju/build.yml?style=for-the-badge)](https://github.com/kugge/Kaiiju/actions)
