@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/kugge/Kaiiju/blob/ver/1.19.3/logo.png?" width="32%" height="32%"/>
+  <img src="https://github.com/pixeledge-verify/Pixolia/blob/main/logo.png?" width="32%" height="32%"/>
   <h1>Kaiiju</h1>
   <h3>Folia fork, designed for vanilla/anarchy servers</h3>
 
