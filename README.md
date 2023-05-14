@@ -6,7 +6,7 @@
 
   [![License](https://img.shields.io/github/license/kugge/Kaiiju?style=for-the-badge&logo=github)](LICENSE)
   [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/kugge/Kaiiju/build.yml?style=for-the-badge)](https://github.com/pixeledge-verify/Pixolia/actions)
-  [![Discord](https://img.shields.io/discord/1059774886672859136?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/8FQBnGSSEq)
+  [![Discord](https://img.shields.io/discord/675813643673141313?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/8FQBnGSSEq)
 
 </div>
 
